@@ -4,14 +4,16 @@
 
 ## Products
 
-### Digital Products
+### Historical Sandbox Examples
 
-| Product | Price | Link |
-|---------|-------|------|
-| AI Prompt Mastery System | $19.99 | [Buy Now](https://buy.stripe.com/test_fZucN49pO8d838zfFnffy00) |
-| Canva Social Media Templates | $14.99 | [Buy Now](https://buy.stripe.com/test_fZu28qeK80KG8sTeBjffy01) |
-| AI Side Hustle | $9.99 | [Buy Now](https://buy.stripe.com/test_bJe9AS0TidxsaB1eBjffy02) |
-| Printables & Planners Bundle | $12.99 | [Buy Now](https://buy.stripe.com/test_4gM3cu45ualg7oP50Jffy03) |
+These were test examples, not live offers. This repository is not a live storefront, and the products below are not available for purchase here. Prices are historical test values only.
+
+| Product | Historical Test Price | Status |
+|---------|-----------------------|--------|
+| AI Prompt Mastery System | $19.99 | Sandbox example, not for purchase |
+| Canva Social Media Templates | $14.99 | Sandbox example, not for purchase |
+| AI Side Hustle | $9.99 | Sandbox example, not for purchase |
+| Printables & Planners Bundle | $12.99 | Sandbox example, not for purchase |
 
 ### Free Tools
 
@@ -25,4 +27,4 @@ Python · JavaScript · Stripe API · Shopify · Printify · n8n
 
 ## Contact
 
-Ones & Zeros Studio · https://zerosonestudio.com
+Ones & Zeros Studio
